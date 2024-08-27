@@ -1,1 +1,8 @@
-# restaurante-API-
+ <h1>Restaurante API</h1>
+<p>Este repositório contém o primeiro curso sobre FastAPI e Flask, com o objetivo de acessar e tornar legíveis os cardápios de vários restaurantes. Exploramos conceitos fundamentais de ambientes virtualizados no desenvolvimento de software, destacando sua importância para isolar e gerenciar dependências de projetos. Aprendemos a criar e ativar ambientes virtuais utilizando a ferramenta venv, essencial para garantir a consistência do ambiente de desenvolvimento e evitar conflitos entre diferentes versões de bibliotecas.
+
+Também abordamos o uso do arquivo requirements.txt para documentar e compartilhar dependências de projetos, facilitando a reprodução de ambientes em diferentes máquinas. Reforçamos a importância da virtualização no desenvolvimento diário, ressaltando que a criação e ativação de ambientes virtuais são etapas cruciais para manter projetos Python estáveis e consistentes.
+
+No contexto de APIs, exploramos a biblioteca requests para realizar requisições HTTP, integrando dados de serviços externos aos nossos programas. Utilizamos APIs de restaurantes para receber informações em formato JSON e aprendemos a salvar e organizar esses dados em arquivos locais para uso futuro.
+
+Além disso, instalamos a biblioteca FastAPI para criar uma API, configurando endpoints que permitem o acesso e a filtragem de dados dos restaurantes. Utilizamos as ferramentas de documentação do FastAPI para gerar documentação interativa, facilitando o entendimento e o teste dos endpoints. Ao longo dessa jornada, consolidamos conhecimentos essenciais em programação Python, desde o uso de classes e herança até a criação de APIs robustas e interativas.</p>
